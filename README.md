@@ -175,10 +175,10 @@ projeto-site/
 
 | Integrante | Responsabilidade |
 |------------|-----------------|
-| (nome 1)   | Planejamento e proposta |
-| (nome 2)   | Identidade visual e logo |
-| (nome 3)   | Estrutura de páginas |
-| (nome 4)   | Mobile First e documentação |
+| (Gabriel oliveira)   | Planejamento e proposta |
+| (João vitor)   | Identidade visual e logo |
+| (Luan alves)   | Estrutura de páginas |
+| (Rian andrade)   | Mobile First e documentação |
 
 ---
 
